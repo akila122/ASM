@@ -10,18 +10,19 @@ def parse_players() -> [Player]:
     players_df = read_csv(ATP_PLAYERS_CSV_URL, header=None)
     logger.info(f'Fetched data from {ATP_PLAYERS_CSV_URL}')
     cr_df = read_csv(ATP_RANKINGS_CURRENT_CSV_URL, header=None,
-                                   names=['date', 'rank', 'player_id', 'points'])
+                     names=['date', 'rank', 'player_id', 'points'])
     logger.info(f'Fetched data from {ATP_RANKINGS_CURRENT_CSV_URL}')
     players = []
     for index, row in players_df.iterrows():
+        current_ranking = cr_df.query(f'player_id == {row[PLAYERS_ID_INDEX]}')
         players.append(Player(
             player_id=row[PLAYERS_ID_INDEX],
             first_name=row[PLAYERS_FIRST_NAME_INDEX],
             last_name=row[PLAYERS_LAST_NAME_INDEX],
             country_code=row[PLAYERS_COUNTRY_CODE_INDEX],
-            current_rank=int(cr_df[cr_df.player_id == row[PLAYERS_ID_INDEX]]['rank'] or -1)
+            current_rank=int(current_ranking['rank']) if not current_ranking.empty else -1
         ))
-        return players
+    return players
 
 
 print(parse_players())
