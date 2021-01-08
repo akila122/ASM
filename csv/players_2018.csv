@@ -1,0 +1,420 @@
+player_id,first_name,last_name,country_code,current_rank
+200711,Nicolas,Mejia,COL,454
+110602,Dennis,Novak,AUT,98
+104460,Dustin,Brown,GER,261
+104467,Lamine,Ouahab,ALG,649
+104468,Gilles,Simon,FRA,64
+104494,Adrian,Ungur,ROU,-1
+104527,Stanislas,Wawrinka,SUI,18
+104534,Dudi,Sela,ISR,233
+104542,Jo Wilfried,Tsonga,FRA,60
+104545,John,Isner,USA,25
+104547,Horacio,Zeballos,ARG,-1
+104563,Luca,Vanni,ITA,451
+104571,Marcos,Baghdatis,CYP,-1
+104586,Lukas,Rosol,CZE,196
+104593,Daniel,Gimeno Traver,ESP,443
+104597,Nicolas,Almagro,ESP,-1
+104607,Tomas,Berdych,CZE,-1
+127143,Jirat,Navasirisomboon,THA,1590
+104620,Simone,Bolelli,ITA,509
+133297,Yosuke,Watanuki,JPN,252
+104629,Adrian,Menendez Maceiras,ESP,270
+108739,Wilfredo,Gonzalez,GUA,1123
+104655,Pablo,Cuevas,URU,68
+104656,Haydn,Lewis,BAR,-1
+104660,Sergiy,Stakhovsky,UKR,201
+104665,Pablo,Andujar,ESP,59
+108763,Alberto Emmanuel,Alvarado Larin,ESA,-1
+104672,Vincent,Millot,FRA,961
+104678,Viktor,Troicki,SRB,202
+104719,Marcel,Granollers,ESP,176
+104731,Kevin,Anderson,RSA,82
+207139,Palaphoom,Kovapitukted,THA,1053
+100644,Alexander,Zverev,GER,7
+104745,Rafael,Nadal,ESP,2
+104755,Richard,Gasquet,FRA,47
+133430,Denis,Shapovalov,CAN,12
+127300,Djurabek,Karimov,UZB,607
+207176,Muhammad,Althaf Dhaifullah,INA,-1
+104792,Gael,Monfils,FRA,11
+104797,Denis,Istomin,UZB,183
+104810,Zhe,Li,CHN,234
+127339,Borna,Gojo,CRO,223
+104871,Jeremy,Chardy,FRA,72
+104882,Blaz,Kavcic,SLO,272
+104890,Andreas,Haider Maurer,AUT,-1
+104897,Matthias,Bachinger,GER,279
+104898,Robin,Haase,NED,198
+104907,Jose Rubin,Statham,NZL,-1
+104918,Andy,Murray,GBR,123
+104919,Leonardo,Mayer,ARG,135
+104925,Novak,Djokovic,SRB,1
+104926,Fabio,Fognini,ITA,17
+104932,Kenny,De Schepper,FRA,669
+104947,Marsel,Ilhan,TUR,571
+109054,Daniel,Masur,GER,242
+104970,Matteo,Viola,ITA,220
+104978,Daniel,Brands,GER,727
+104999,Mischa,Zverev,GER,264
+207400,Mark,Chigaazira,ZIM,-1
+111153,Christopher,Eubanks,USA,235
+105015,Franco,Skugor,CRO,-1
+207415,Daniel,Michalski,POL,428
+207421,Alex,Fairbanks,SRI,-1
+105023,Sam,Querrey,USA,56
+111167,Ugo,Nastasi,LUX,-1
+121411,Moez,Chargui,TUN,690
+105030,Michael,Venus,NZL,-1
+105041,Lukas,Lacko,SVK,200
+127570,Rodrigo,Arus,URU,-1
+111190,Zhizhen,Zhang,CHN,169
+111192,Lucas,Miedler,AUT,306
+105051,Matthew,Ebden,AUS,317
+105053,Santiago,Giraldo,COL,318
+111197,Jonathan,Mridha,SWE,579
+111200,Elias,Ymer,SWE,204
+111202,Hyeon,Chung,KOR,163
+105062,Mikhail,Kukushkin,KAZ,89
+105063,Andrea,Arnaboldi,ITA,267
+105064,Thomaz,Bellucci,BRA,281
+105065,Tim,Smyczek,USA,510
+117356,Cem,Ilkel,TUR,219
+105074,Ruben,Bemelmans,BEL,225
+105077,Albert,Ramos,ESP,45
+207479,Soufiane,El Mesbahi,MAR,-1
+105085,Artem,Smirnov,UKR,694
+105111,Ivan,Endara,ECU,1549
+105132,Jurgen,Zopp,EST,566
+105138,Roberto,Bautista Agut,ESP,13
+105147,Tatsuma,Ito,JPN,189
+105155,Pedro,Sousa,POR,106
+105156,Federico,Zeballos,BOL,573
+105163,Gleb,Sakharov,FRA,599
+105166,Peter,Polansky,CAN,217
+105173,Adrian,Mannarino,FRA,34
+105208,Ernests,Gulbis,LAT,185
+105216,Yuichi,Sugita,JPN,102
+105217,Thiemo,De Bakker,NED,684
+105223,Juan Martin,Del Potro,ARG,157
+105226,Attila,Balazs,HUN,93
+105227,Marin,Cilic,CRO,43
+105238,Alexandr,Dolgopolov,UKR,-1
+105273,Mauricio,Echazu,PER,586
+105292,Alejandro,Gonzalez,COL,448
+111442,Jordan,Thompson,AUS,51
+105299,Dzmitry,Zhyrmont,BLR,-1
+133975,Benjamin,Hassan,GER,371
+105311,Joao,Sousa,POR,92
+111456,Mackenzie,Mcdonald,USA,194
+111459,Arjun,Kadhe,IND,662
+111460,Quentin,Halys,FRA,206
+125802,Ilya,Ivashka,BLR,108
+123755,Daniel Elahi,Galan Riveros,COL,115
+105332,Benoit,Paire,FRA,28
+123768,Collin,Altamirano,USA,397
+207738,Brandon,Perez,VEN,1723
+105341,Thomas,Fabbiano,ITA,173
+105349,Harri,Heliovaara,FIN,636
+105357,John,Millman,AUS,38
+105359,Jason,Jung,TPE,132
+123795,Altug,Celikbilek,TUR,309
+111511,Noah,Rubin,USA,251
+111513,Laslo,Djere,SRB,55
+111515,Thai Son,Kwiatkowski,USA,213
+105373,Martin,Klizan,SVK,152
+105376,Peter,Gojowczyk,GER,146
+105379,Aljaz,Bedene,SLO,58
+103333,Ivo,Karlovic,CRO,148
+205734,Thiago,Seyboth Wild,BRA,117
+105385,Donald,Young,USA,327
+105413,Andrej,Martin,SVK,100
+105430,Radu,Albot,MDA,85
+111575,Karen,Khachanov,RUS,20
+111576,Sumit,Nagal,IND,137
+111577,Jared,Donaldson,USA,749
+105432,Prajnesh,Gunneswaran,IND,128
+111578,Stefan,Kozlov,USA,374
+207836,Muzammil,Murtaza,PAK,-1
+111581,Michael,Mmoh,USA,174
+111574,Jc,Aragone,USA,299
+105436,Markus,Eriksson,SWE,333
+105441,John Patrick,Smith,AUS,314
+134114,Jad,Ballout,TPE,-1
+134120,Kuan Yi,Lee,TPE,758
+105449,Steve,Johnson,USA,73
+105453,Kei,Nishikori,JPN,41
+105467,Jordi,Munoz Abreu,VEN,1266
+105477,Marco,Trungelliti,ARG,243
+105479,Alejandro,Mendoza,BOL,826
+105487,Facundo,Bagnis,ARG,125
+123921,Calvin,Hemery,FRA,469
+105493,Tomislav,Brkic,BIH,616
+105497,Jose,Hernandez,DOM,316
+105499,Christopher,Diaz Figueroa,GUA,-1
+105502,N Sriram,Balaji,IND,1164
+128034,Hubert,Hurkacz,POL,35
+105515,Jordi,Samper Montana,ESP,1043
+105526,Jan Lennard,Struff,GER,37
+105539,Evgeny,Donskoy,RUS,122
+134217,Skyler,Butts,HKG,1624
+103499,Aqeel,Khan,PAK,-1
+105550,Guido,Pella,ARG,44
+105554,Daniel,Evans,GBR,32
+105561,Alessandro,Giannessi,ITA,162
+105566,Shahin,Khaledan,IRI,1723
+207971,Xavier,Lawrence,BAR,-1
+207972,Minjong,Park,KOR,1520
+207973,Ainius,Sabaliauskas,LTU,-1
+105575,Ricardas,Berankis,LTU,69
+105577,Vasek,Pospisil,CAN,61
+105578,Cristian,Rodriguez,COL,498
+103529,Aisam Ul Haq,Qureshi,PAK,-1
+124014,Ernesto,Escobedo,USA,199
+105583,Dusan,Lajovic,SRB,26
+105585,Ze,Zhang,CHN,419
+105587,Tom,Kocevar Desman,SLO,733
+105589,Gerald,Melzer,AUT,1105
+124022,Chun Hun,Wong,HKG,-1
+109698,Christoffer,Konigsfeldt,DEN,-1
+105606,Mohsen,Hossein Zade,IRI,-1
+105613,Norbert,Gombos,SVK,88
+126094,Andrey,Rublev,RUS,8
+105614,Bradley,Klahn,USA,149
+103565,Stephane,Robert,FRA,900
+111761,Benjamin,Lock,ZIM,439
+126102,Nicolae,Frunza,ROU,792
+105626,Takanyi,Garanganga,ZIM,568
+208028,Francisco,Llanes,URU,-1
+208029,Holger Vitus Nodskov,Rune,DEN,474
+105633,Mohamed,Safwat,EGY,153
+105634,Viktor,Galovic,ITA,284
+126120,Nino,Serdarusic,CRO,292
+105641,Blaz,Rola,SLO,154
+105643,Federico,Delbonis,ARG,77
+109739,Maximilian,Marterer,GER,209
+126125,Maxime,Janvier,FRA,210
+111790,Brayden,Schnur,CAN,207
+124079,Pedro,Martinez Portero,ESP,86
+206000,Michel,Saade,LIB,-1
+105649,Cedrik Marcel,Stebe,GER,126
+111794,Kamil,Majchrzak,POL,107
+111795,Filippo,Baldi,ITA,241
+126127,Benjamin,Bonzi,FRA,164
+111797,Nicolas,Jarry,CHI,-1
+103607,Victor,Estrella,DOM,894
+105656,Marcelo,Arevalo,ESA,447
+105657,Marius,Copil,ROU,216
+132283,Lorenzo,Sonego,ITA,33
+111805,Seong Chan,Hong,KOR,550
+138431,Darko,Bojanovic,BIH,1500
+111815,Cameron,Norrie,GBR,74
+105671,Gastao,Elias,POR,414
+105676,David,Goffin,BEL,16
+105683,Milos,Raonic,CAN,14
+124116,Sebastian,Ofner,AUT,159
+105688,Manuel,Sanchez,MEX,854
+105691,Scott,Griekspoor,NED,696
+122078,Dmitry,Popko,KAZ,165
+126174,Youssef,Hossam,EGY,-1
+124126,Sarp,Agabigun,TUR,882
+105707,Nicolaas,Scholtz,RSA,-1
+126190,Nicolas,Alvarez,PER,343
+136440,Dominik,Koepfer,GER,66
+126203,Taylor Harry,Fritz,USA,29
+126204,Gerardo,Lopez Villasenor,MEX,552
+122109,Sanjar,Fayziev,UZB,511
+126205,Tommy,Paul,USA,52
+126207,Francis,Tiafoe,USA,62
+105732,Pierre Hugues,Herbert,FRA,83
+144645,Zdenek,Kolar,CZE,224
+105747,Karim Mohamed,Maamoun,EGY,390
+124187,Reilly,Opelka,USA,39
+105757,Sandro,Ehrat,SUI,376
+105777,Grigor,Dimitrov,BUL,19
+200000,Felix,Auger Aliassime,CAN,21
+144707,Mikael,Ymer,SWE,94
+200005,Ugo,Humbert,FRA,31
+105806,Mirza,Basic,BIH,329
+105807,Pablo,Carreno Busta,ESP,15
+144719,Jaume,Munar,ESP,109
+105812,David,Agung Susanto,INA,1385
+105815,Tennys,Sandgren,USA,50
+105819,Guido,Andreozzi,ARG,166
+200031,Lucas,Catarina,MON,423
+105827,Laurynas,Grigelis,LTU,424
+103781,Jurgen,Melzer,AUT,1345
+202090,Adrian,Andreev,BUL,564
+200045,Anthony,Susanto,INA,-1
+144750,Lloyd George Muirhead,Harris,RSA,90
+105842,Di,Wu,CHN,322
+144760,Amine,Ahouda,MAR,1642
+200059,Yibing,Wu,CHN,892
+122236,Roman,Hassanov,KAZ,-1
+132482,Liam,Caruana,USA,440
+126340,Viktor,Durasovic,NOR,340
+144776,Christophe,Tholl,LUX,-1
+103819,Roger,Federer,SUI,5
+200075,Yshai,Oliel,ISR,416
+105870,Yannick,Hanfmann,GER,99
+202130,Emil,Reinberg,USA,-1
+105882,Stefano,Travaglia,ITA,75
+200095,Nicola,Kuhn,ESP,253
+144807,Kenneth,Raisma,EST,819
+105899,Martin,Cuevas,URU,488
+103852,Feliciano,Lopez,ESP,63
+105902,James,Duckworth,AUS,103
+144817,Marc Andrea,Huesler,SUI,147
+202165,Alberto,Lim,PHI,-1
+144826,Aziz,Dougaz,TUN,377
+105916,Marton,Fucsovics,HUN,54
+105932,Nikoloz,Basilashvili,GEO,40
+105933,Roberto,Quiroz,ECU,293
+105935,Duilio,Beretta,PER,-1
+105936,Filip,Krajinovic,SRB,30
+103893,Paolo,Lorenzi,ITA,145
+105943,Federico,Gaio,ITA,136
+103898,Julien,Benneteau,FRA,-1
+122330,Alexander,Bublik,KAZ,49
+105948,Federico,Coria,ARG,91
+105952,Renzo,Olivo,ARG,212
+202210,Edris,Fetisleam,ROU,-1
+105960,Evan,King,USA,427
+105961,David,Souto,VEN,-1
+103917,Nicolas,Mahut,FRA,239
+105967,Henri,Laaksonen,SUI,133
+200175,Miomir,Kecmanovic,SRB,42
+144895,Corentin,Moutet,FRA,80
+105985,Darian,King,BAR,288
+105992,Ryan,Harrison,USA,481
+106000,Damir,Dzumhur,BIH,118
+106005,Constant,Lestienne,FRA,227
+200218,Mate,Valkusz,HUN,575
+103970,David,Ferrer,ESP,-1
+106021,Dragos,Dima,ROU,771
+126502,Luis Diego,Chavez Villalpando,ESP,1218
+106026,Yuki,Bhambri,IND,-1
+103990,Tommy,Robredo,ESP,226
+200250,Mehluli Don Ayanda,Sibanda,ZIM,780
+106043,Diego Sebastian,Schwartzman,ARG,9
+106044,Nicolas,Kicker,ARG,-1
+106045,Denis,Kudla,USA,114
+126526,Soren,Hess Olesen,DEN,-1
+126523,Bernabe,Zapata Miralles,ESP,150
+126530,Peter,Bothwell,IRL,824
+126535,Carlos,Taberner,ESP,142
+106058,Jack,Sock,USA,255
+106065,Marco,Cecchinato,ITA,79
+200273,Hady,Habib,LIB,756
+200274,Alex,Diaz,PUR,-1
+104022,Mikhail,Youzhny,RUS,-1
+200278,Simon,Carr,IRL,546
+106072,Alexey,Vatutin,RUS,244
+106071,Bernard,Tomic,AUS,228
+200282,Alex,De Minaur,AUS,23
+106075,Jozef,Kovalik,SVK,131
+138845,Anthony Jackie,Tang,HKG,-1
+138846,Hong Kit Jack,Wong,HKG,924
+106078,Egor,Gerasimov,BLR,78
+120424,Yannick,Maden,GER,171
+134770,Casper,Ruud,NOR,27
+106099,Salvatore,Caruso,ITA,76
+202358,Chun Hsin,Tseng,TPE,280
+106105,Guilherme,Clezar,BRA,266
+106106,George,Tsivadze,GEO,886
+106109,Alex,Bolt,AUS,172
+106110,Filip,Horansky,SVK,184
+200325,Emil,Ruusuvuori,FIN,87
+106120,Ricardo,Ojeda Lara,ESP,460
+106121,Taro,Daniel,JPN,116
+202382,Simen Sunde,Bratholm,NOR,-1
+202385,Jenson,Brooksby,USA,310
+126610,Matteo,Berrettini,ITA,10
+126613,Bogdan,Borza,ROU,1202
+106138,Yaraslau,Shyla,BLR,988
+106148,Roberto,Carballes Baena,ESP,96
+106150,Jeson,Patrombon,PHI,1465
+122548,Edan,Leshem,ISR,373
+106167,Joris,De Loore,BEL,-1
+104122,Carlos,Berlocq,ARG,-1
+126652,Jay,Clarke,GBR,191
+106174,Gonzalo,Lama,CHI,740
+106175,Ricardo,Rodriguez,VEN,534
+200384,Hugo,Gaston,FRA,161
+106177,Oriol,Roca Batalla,ESP,326
+106186,Jason,Kubler,AUS,259
+200401,Amir Hossein,Badi,IRI,-1
+134868,Tallon,Griekspoor,NED,155
+106198,Hugo,Dellien,BOL,111
+202462,Yasitha,De Silva,SRI,-1
+106210,Jiri,Vesely,CZE,67
+134886,Sharmal,Dissanayake,SRI,-1
+106214,Oscar,Otte,GER,140
+106216,Bjorn,Fratangelo,USA,274
+106218,Marcos,Giron,USA,70
+106220,Dimitar,Kuzmanov,BUL,298
+104180,Gilles,Muller,LUX,-1
+200436,Zsombor,Piros,HUN,437
+106228,Juan Ignacio,Londero,ARG,81
+106232,Roberto,Cid,DOM,231
+106233,Dominic,Thiem,AUT,3
+104198,Guillermo,Garcia Lopez,ESP,222
+106249,Joao,Domingues,POR,179
+106250,Luis,Patino,MEX,975
+106252,Joao Pedro,Sorgi,BRA,666
+200460,John Bryan Decasa,Otico,PHI,-1
+200483,Peter August,Anker,NOR,-1
+200484,Rudolf,Molleker,GER,218
+106281,Liam,Broady,GBR,187
+104233,Frederik,Nielsen,DEN,-1
+106283,Mitchell,Krueger,USA,190
+122669,Juan Pablo,Varillas Patino Samudio,PER,158
+206642,Yassir,Kilani,MAR,1454
+126774,Stefanos,Tsitsipas,GRE,6
+106296,Gregoire,Barrere,FRA,110
+106298,Lucas,Pouille,FRA,71
+104251,Ti,Chen,TPE,1173
+104252,Florian,Mayer,GER,-1
+200514,Jurij,Rodionov,AUT,143
+104259,Philipp,Kohlschreiber,GER,97
+104269,Fernando,Verdasco,ESP,65
+106324,Vaclav,Safranek,CZE,344
+106325,Jabor,Al Mutawa,QAT,-1
+106328,Christian,Harrison,USA,789
+106329,Thiago,Monteiro,BRA,84
+106333,Julien,Cagnina,BEL,938
+104291,Malek,Jaziri,TUN,249
+104297,Rogerio,Dutra Silva,BRA,449
+106348,Evgeny,Karlovskiy,RUS,258
+106353,Pedja,Krstin,SRB,265
+104308,Michal,Przysiezny,POL,-1
+104312,Andreas,Seppi,ITA,105
+106361,Adam,Pavlasek,CZE,403
+126845,Max,Purcell,AUS,238
+126846,Aleksandar,Vukic,AUS,195
+200574,Alexander,Donski,CAN,594
+106368,Ramkumar,Ramanathan,IND,188
+106378,Kyle,Edmund,GBR,48
+106391,Adrian,Bodmer,SUI,1033
+106393,Frederico,Ferreira Silva,POR,182
+106396,Cheng Yu,Yu,TPE,925
+106397,Wishaya,Trongcharoenchaikul,THA,644
+106398,Pedro,Cachin,ARG,370
+106401,Nick,Kyrgios,AUS,46
+200611,Elliot,Benchetrit,FRA,221
+200615,Alexei,Popyrin,AUS,113
+106410,Jorge Brian,Panta Herreros,PER,521
+200619,Sebastian,Arcila,PUR,-1
+106412,Lucas,Gomez,MEX,1027
+200620,Ignacio,Garcia,PUR,-1
+106415,Yoshihito,Nishioka,JPN,57
+206768,Rafael Eduardo,Gonzalez Retana,ESA,-1
+200624,Sebastian,Korda,USA,119
+106421,Daniil,Medvedev,RUS,4
+106423,Thanasi,Kokkinakis,AUS,260
+106426,Christian,Garin,CHI,22
+106432,Borna,Coric,CRO,24
+110536,Kevin,King,USA,304
+120792,M Abid Ali Khan,Akbar,PAK,-1
+126939,Khumoun,Sultanov,UZB,330
+126952,Soon Woo,Kwon,KOR,95
