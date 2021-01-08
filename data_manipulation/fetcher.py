@@ -76,7 +76,8 @@ def fetch_data(write=True) -> (Set[Player], Set[Match], Set[Tourney]):
                         first_name=new_player_df['first_name'].item(),
                         last_name=new_player_df['last_name'].item(),
                         country_code=new_player_df['country_code'].item(),
-                        current_rank=int(current_ranking['rank']) if not current_ranking.empty else -1
+                        current_rank=int(current_ranking['rank']) if not current_ranking.empty else -1,
+                        current_points=int(current_ranking['points']) if not current_ranking.empty else -1
                     ))
             dummy_loser = Player(player_id=new_match.loser_id)
             if dummy_loser not in players[i]:
@@ -108,7 +109,8 @@ def fetch_data(write=True) -> (Set[Player], Set[Match], Set[Tourney]):
                         first_name=new_player_df['first_name'].item(),
                         last_name=new_player_df['last_name'].item(),
                         country_code=new_player_df['country_code'].item(),
-                        current_rank=int(current_ranking['rank']) if not current_ranking.empty else -1
+                        current_rank=int(current_ranking['rank']) if not current_ranking.empty else -1,
+                        current_points=int(current_ranking['points']) if not current_ranking.empty else -1
                     ))
         logger.success(
             f'Parsed total {len(players[i])} Players, {len(matches[i])} Matches and {len(tournaments[i])} Tournaments'

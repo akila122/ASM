@@ -8,6 +8,7 @@ class Player:
     last_name: str = None
     country_code: str = None
     current_rank: int = None
+    current_points: int = None
 
     # For Set Impl
     def __eq__(self, other):
