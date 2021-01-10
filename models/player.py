@@ -3,7 +3,7 @@ from dataclasses import dataclass
 
 @dataclass
 class Player:
-    player_id: str = None
+    player_id: int = None
     first_name: str = None
     last_name: str = None
     country_code: str = None

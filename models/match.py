@@ -7,8 +7,8 @@ from models import Player
 class Match:
     tourney_id: str = None
     surface: str = None
-    winner_id: str = None
-    loser_id: str = None
+    winner_id: int = None
+    loser_id: int = None
 
     # For Set Impl
     def __eq__(self, other):

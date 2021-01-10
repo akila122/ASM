@@ -1,4 +1,4 @@
-from typing import Set
+from typing import Set, Dict, List
 
 from loguru import logger
 from pandas import read_csv, DataFrame
@@ -13,7 +13,7 @@ from models import Player, Match, Tourney
 
 
 @logger.catch(reraise=True)
-def fetch_data(write=True) -> (Set[Player], Set[Match], Set[Tourney]):
+def fetch_and_write_csv(write=True) -> Dict[str, List[Set]]:
     # Matches data
     matches_source_urls = [ATP_MATCHES_2018_CSV_URL, ATP_MATCHES_2019_CSV_URL, ATP_MATCHES_2020_CSV_URL]
     matches_dfs = [read_csv(source_url) for source_url in matches_source_urls]
@@ -38,7 +38,7 @@ def fetch_data(write=True) -> (Set[Player], Set[Match], Set[Tourney]):
         logger.info(f'Parsing {matches_source_urls[i]}.')
         for index, row in tqdm(df.iterrows(), total=len(df)):
             new_match = Match(tourney_id=row['tourney_id'], surface=row['surface'],
-                              winner_id=row['winner_id'], loser_id=row['loser_id'],
+                              winner_id=int(row['winner_id']), loser_id=int(row['loser_id']),
                               )
             matches[i].add(new_match)
             dummy_tourney = Tourney(tourney_id=new_match.tourney_id)
@@ -72,7 +72,7 @@ def fetch_data(write=True) -> (Set[Player], Set[Match], Set[Tourney]):
                             f'Using first rank from atp_rankings_current.'
                         )
                     players[i].add(Player(
-                        player_id=new_player_df['player_id'].item(),
+                        player_id=int(new_player_df['player_id'].item()),
                         first_name=new_player_df['first_name'].item(),
                         last_name=new_player_df['last_name'].item(),
                         country_code=new_player_df['country_code'].item(),
@@ -105,7 +105,7 @@ def fetch_data(write=True) -> (Set[Player], Set[Match], Set[Tourney]):
                             f'Using first rank from atp_rankings_current.'
                         )
                     players[i].add(Player(
-                        player_id=new_player_df['player_id'].item(),
+                        player_id=int(new_player_df['player_id'].item()),
                         first_name=new_player_df['first_name'].item(),
                         last_name=new_player_df['last_name'].item(),
                         country_code=new_player_df['country_code'].item(),
@@ -163,7 +163,7 @@ def fetch_data(write=True) -> (Set[Player], Set[Match], Set[Tourney]):
         logger.success(
             f'Unions [[Player], [Match], [Tourney]] [{len(players_union)}, {len(matches_union)}, {len(tournaments_union)}].')
 
-    return players, matches, tournaments
+    return {'players': players, 'matches': matches, 'tournaments': tournaments}
 
 
 @logger.catch(reraise=True)
