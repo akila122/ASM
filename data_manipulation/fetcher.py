@@ -171,6 +171,3 @@ def _write_csv(source, write_to):
     data = [vars(x) for x in source]
     df = DataFrame(data)
     df.to_csv(write_to, index=False)
-
-
-fetch_data()

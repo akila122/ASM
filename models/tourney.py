@@ -1,5 +1,4 @@
 from dataclasses import dataclass
-from datetime import date
 
 
 @dataclass
@@ -15,3 +14,6 @@ class Tourney:
 
     def __hash__(self):
         return hash(self.tourney_id)
+
+class TourneyWrapper(Tourney):
+    pass
