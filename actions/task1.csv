@@ -1,0 +1,582 @@
+player_id,first_name,last_name,average_opponents
+126774,Stefanos,Tsitsipas,65.333
+100644,Alexander,Zverev,61.0
+106421,Daniil,Medvedev,61.0
+104925,Novak,Djokovic,60.0
+106233,Dominic,Thiem,58.667
+106043,Diego Sebastian,Schwartzman,55.0
+133430,Denis,Shapovalov,53.667
+111575,Karen,Khachanov,52.667
+104745,Rafael,Nadal,50.333
+126094,Andrey,Rublev,50.333
+105138,Roberto,Bautista Agut,48.667
+105526,Jan Lennard,Struff,47.333
+105332,Benoit,Paire,47.0
+105173,Adrian,Mannarino,46.667
+104926,Fabio,Fognini,46.333
+106432,Borna,Coric,46.0
+105807,Pablo,Carreno Busta,45.333
+104468,Gilles,Simon,45.0
+105227,Marin,Cilic,44.667
+104792,Gael,Monfils,43.667
+105676,David,Goffin,43.667
+126203,Taylor Harry,Fritz,43.667
+103819,Roger,Federer,43.0
+200282,Alex,De Minaur,42.667
+104269,Fernando,Verdasco,42.333
+105077,Albert,Ramos,42.0
+105550,Guido,Pella,42.0
+105583,Dusan,Lajovic,42.0
+105932,Nikoloz,Basilashvili,42.0
+105916,Marton,Fucsovics,41.333
+104545,John,Isner,40.667
+126610,Matteo,Berrettini,40.333
+105311,Joao,Sousa,40.0
+126207,Francis,Tiafoe,39.667
+105357,John,Millman,39.333
+105683,Milos,Raonic,39.333
+106378,Kyle,Edmund,38.667
+200000,Felix,Auger Aliassime,38.333
+104755,Richard,Gasquet,38.0
+105453,Kei,Nishikori,38.0
+105777,Grigor,Dimitrov,38.0
+105430,Radu,Albot,37.333
+105732,Pierre Hugues,Herbert,37.0
+104527,Stanislas,Wawrinka,36.667
+104871,Jeremy,Chardy,36.333
+105936,Filip,Krajinovic,36.0
+105062,Mikhail,Kukushkin,35.667
+106065,Marco,Cecchinato,35.333
+111815,Cameron,Norrie,34.667
+104312,Andreas,Seppi,34.667
+104655,Pablo,Cuevas,34.0
+104731,Kevin,Anderson,34.0
+106000,Damir,Dzumhur,33.667
+104259,Philipp,Kohlschreiber,33.667
+105449,Steve,Johnson,33.333
+105379,Aljaz,Bedene,32.667
+105023,Sam,Querrey,32.0
+128034,Hubert,Hurkacz,31.667
+111513,Laslo,Djere,31.333
+111797,Nicolas,Jarry,31.0
+104898,Robin,Haase,30.333
+104919,Leonardo,Mayer,29.667
+134770,Casper,Ruud,29.667
+106426,Christian,Garin,29.667
+103852,Feliciano,Lopez,29.333
+106298,Lucas,Pouille,29.333
+105815,Tennys,Sandgren,29.0
+106415,Yoshihito,Nishioka,29.0
+106401,Nick,Kyrgios,28.333
+105643,Federico,Delbonis,28.0
+106148,Roberto,Carballes Baena,28.0
+111442,Jordan,Thompson,27.667
+105376,Peter,Gojowczyk,27.667
+132283,Lorenzo,Sonego,26.667
+105223,Juan Martin,Del Potro,24.667
+124187,Reilly,Opelka,24.667
+144719,Jaume,Munar,24.667
+200005,Ugo,Humbert,24.333
+200175,Miomir,Kecmanovic,24.333
+106210,Jiri,Vesely,24.333
+105554,Daniel,Evans,24.0
+106121,Taro,Daniel,23.667
+104291,Malek,Jaziri,23.667
+105657,Marius,Copil,22.667
+104542,Jo Wilfried,Tsonga,22.0
+104999,Mischa,Zverev,22.0
+122330,Alexander,Bublik,21.667
+106228,Juan Ignacio,Londero,21.0
+104665,Pablo,Andujar,20.667
+105051,Matthew,Ebden,20.667
+111202,Hyeon,Chung,20.333
+105373,Martin,Klizan,20.333
+105577,Vasek,Pospisil,20.333
+105575,Ricardas,Berankis,20.0
+109739,Maximilian,Marterer,20.0
+106045,Denis,Kudla,19.667
+103333,Ivo,Karlovic,19.333
+111456,Mackenzie,Mcdonald,18.667
+105992,Ryan,Harrison,18.333
+104198,Guillermo,Garcia Lopez,18.333
+106329,Thiago,Monteiro,18.333
+104797,Denis,Istomin,17.333
+125802,Ilya,Ivashka,16.667
+105539,Evgeny,Donskoy,16.667
+144750,Lloyd George Muirhead,Harris,16.667
+144895,Corentin,Moutet,16.667
+105216,Yuichi,Sugita,16.333
+105341,Thomas,Fabbiano,16.333
+206173,Jannik,Sinner,15.667
+106078,Egor,Gerasimov,15.333
+104607,Tomas,Berdych,15.0
+105208,Ernests,Gulbis,14.667
+200615,Alexei,Popyrin,14.333
+103893,Paolo,Lorenzi,14.0
+103970,David,Ferrer,13.667
+106058,Jack,Sock,13.667
+110602,Dennis,Novak,13.333
+106198,Hugo,Dellien,13.333
+105806,Mirza,Basic,13.0
+106071,Bernard,Tomic,13.0
+104918,Andy,Murray,12.667
+126205,Tommy,Paul,12.667
+105882,Stefano,Travaglia,12.667
+105967,Henri,Laaksonen,12.667
+104571,Marcos,Baghdatis,12.0
+111577,Jared,Donaldson,12.0
+106099,Salvatore,Caruso,12.0
+200221,Alejandro,Davidovich Fokina,11.0
+105614,Bradley,Klahn,10.667
+144707,Mikael,Ymer,10.667
+104678,Viktor,Troicki,10.333
+105041,Lukas,Lacko,10.333
+105432,Prajnesh,Gunneswaran,10.333
+126952,Soon Woo,Kwon,10.333
+106075,Jozef,Kovalik,10.0
+104719,Marcel,Granollers,9.667
+105819,Guido,Andreozzi,9.667
+106296,Gregoire,Barrere,9.667
+104180,Gilles,Muller,9.333
+105074,Ruben,Bemelmans,8.667
+104547,Horacio,Zeballos,8.333
+104022,Mikhail,Youzhny,8.333
+105226,Attila,Balazs,8.0
+105613,Norbert,Gombos,8.0
+105649,Cedrik Marcel,Stebe,8.0
+136440,Dominik,Koepfer,8.0
+106218,Marcos,Giron,8.0
+104660,Sergiy,Stakhovsky,7.667
+111200,Elias,Ymer,7.667
+105359,Jason,Jung,7.667
+105902,James,Duckworth,7.667
+120424,Yannick,Maden,7.667
+200325,Emil,Ruusuvuori,7.667
+106368,Ramkumar,Ramanathan,7.667
+105065,Tim,Smyczek,7.333
+105155,Pedro,Sousa,7.0
+105413,Andrej,Martin,7.0
+111581,Michael,Mmoh,7.0
+124079,Pedro,Martinez Portero,7.0
+103917,Nicolas,Mahut,7.0
+106109,Alex,Bolt,7.0
+123755,Daniel Elahi,Galan Riveros,6.667
+106044,Nicolas,Kicker,6.667
+104327,Steve,Darcis,6.667
+111794,Kamil,Majchrzak,6.333
+105870,Yannick,Hanfmann,6.333
+103898,Julien,Benneteau,6.333
+104534,Dudi,Sela,6.0
+105487,Facundo,Bagnis,6.0
+104297,Rogerio,Dutra Silva,6.0
+104386,Janko,Tipsarevic,6.0
+105166,Peter,Polansky,5.667
+105385,Donald,Young,5.667
+106216,Bjorn,Fratangelo,5.667
+104252,Florian,Mayer,5.667
+104897,Matthias,Bachinger,5.333
+105948,Federico,Coria,5.333
+106034,Yasutaka,Uchiyama,5.333
+106423,Thanasi,Kokkinakis,5.333
+111511,Noah,Rubin,5.0
+126156,Antonie,Hoang,5.0
+205734,Thiago,Seyboth Wild,4.667
+105477,Marco,Trungelliti,4.667
+124014,Ernesto,Escobedo,4.667
+111790,Brayden,Schnur,4.667
+106026,Yuki,Bhambri,4.667
+104586,Lukas,Rosol,4.333
+104620,Simone,Bolelli,4.333
+105132,Jurgen,Zopp,4.333
+105633,Mohamed,Safwat,4.333
+126149,Gianluca,Mager,4.333
+144817,Marc Andrea,Huesler,4.0
+200484,Rudolf,Molleker,4.0
+104882,Blaz,Kavcic,3.667
+117356,Cem,Ilkel,3.667
+106214,Oscar,Otte,3.667
+104629,Adrian,Menendez Maceiras,3.333
+111153,Christopher,Eubanks,3.333
+105053,Santiago,Giraldo,3.333
+105238,Alexandr,Dolgopolov,3.333
+111576,Sumit,Nagal,3.333
+105589,Gerald,Melzer,3.333
+103607,Victor,Estrella,3.333
+105671,Gastao,Elias,3.333
+106220,Dimitar,Kuzmanov,3.333
+106249,Joao,Domingues,3.333
+200514,Jurij,Rodionov,3.333
+104890,Andreas,Haider Maurer,3.0
+117360,Marc,Polmans,3.0
+133975,Benjamin,Hassan,3.0
+124116,Sebastian,Ofner,3.0
+200059,Yibing,Wu,3.0
+104122,Carlos,Berlocq,3.0
+134868,Tallon,Griekspoor,3.0
+122669,Juan Pablo,Varillas Patino Samudio,3.0
+106397,Wishaya,Trongcharoenchaikul,3.0
+104467,Lamine,Ouahab,2.667
+104810,Zhe,Li,2.667
+207518,Lorenzo,Musetti,2.667
+111460,Quentin,Halys,2.667
+105349,Harri,Heliovaara,2.667
+105656,Marcelo,Arevalo,2.667
+106110,Filip,Horansky,2.667
+126652,Jay,Clarke,2.667
+106293,Kimmer,Coppejans,2.667
+104424,Go,Soeda,2.667
+104460,Dustin,Brown,2.333
+127157,Daniel,Altmaier,2.333
+105015,Franco,Skugor,2.333
+111190,Zhizhen,Zhang,2.333
+105634,Viktor,Galovic,2.333
+122109,Sanjar,Fayziev,2.333
+105827,Laurynas,Grigelis,2.333
+105933,Roberto,Quiroz,2.333
+105985,Darian,King,2.333
+200384,Hugo,Gaston,2.333
+106283,Mitchell,Krueger,2.333
+200624,Sebastian,Korda,2.333
+110748,Nikola,Milojevic,2.0
+105064,Thomaz,Bellucci,2.0
+105147,Tatsuma,Ito,2.0
+123795,Altug,Celikbilek,2.0
+123921,Calvin,Hemery,2.0
+105497,Jose,Hernandez,2.0
+105585,Ze,Zhang,2.0
+111761,Benjamin,Lock,2.0
+105688,Manuel,Sanchez,2.0
+126204,Gerardo,Lopez Villasenor,2.0
+126214,Alejandro,Tabilo,2.0
+105747,Karim Mohamed,Maamoun,2.0
+126340,Viktor,Durasovic,2.0
+105899,Martin,Cuevas,2.0
+105943,Federico,Gaio,2.0
+126535,Carlos,Taberner,2.0
+200273,Hady,Habib,2.0
+106072,Alexey,Vatutin,2.0
+202358,Chun Hsin,Tseng,2.0
+106120,Ricardo,Ojeda Lara,2.0
+106150,Jeson,Patrombon,2.0
+106186,Jason,Kubler,2.0
+106223,Aleksandre,Metreveli,2.0
+106398,Pedro,Cachin,2.0
+200611,Elliot,Benchetrit,2.0
+106412,Lucas,Gomez,2.0
+206909,Brandon,Nakashima,1.667
+133297,Yosuke,Watanuki,1.667
+108739,Wilfredo,Gonzalez,1.667
+104907,Jose Rubin,Statham,1.667
+105011,Illya,Marchenko,1.667
+105441,John Patrick,Smith,1.667
+105561,Alessandro,Giannessi,1.667
+105626,Takanyi,Garanganga,1.667
+208029,Holger Vitus Nodskov,Rune,1.667
+126125,Maxime,Janvier,1.667
+126127,Benjamin,Bonzi,1.667
+105842,Di,Wu,1.667
+105877,Emilio,Gomez,1.667
+200095,Nicola,Kuhn,1.667
+105952,Renzo,Olivo,1.667
+106005,Constant,Lestienne,1.667
+122548,Edan,Leshem,1.667
+200436,Zsombor,Piros,1.667
+106232,Roberto,Cid,1.667
+106234,Aslan,Karatsev,1.667
+106250,Luis,Patino,1.667
+106281,Liam,Broady,1.667
+200670,Jeffrey John,Wolf,1.667
+127143,Jirat,Navasirisomboon,1.333
+207139,Palaphoom,Kovapitukted,1.333
+127339,Borna,Gojo,1.333
+105156,Federico,Zeballos,1.333
+105217,Thiemo,De Bakker,1.333
+105292,Alejandro,Gonzalez,1.333
+207797,Jonas,Forejtek,1.333
+103499,Aqeel,Khan,1.333
+103565,Stephane,Robert,1.333
+126120,Nino,Serdarusic,1.333
+122078,Dmitry,Popko,1.333
+126190,Nicolas,Alvarez,1.333
+105757,Sandro,Ehrat,1.333
+105812,David,Agung Susanto,1.333
+144760,Amine,Ahouda,1.333
+132482,Liam,Caruana,1.333
+105905,Danilo,Petrovic,1.333
+202165,Alberto,Lim,1.333
+126523,Bernabe,Zapata Miralles,1.333
+106175,Ricardo,Rodriguez,1.333
+200460,John Bryan Decasa,Otico,1.333
+104233,Frederik,Nielsen,1.333
+200620,Ignacio,Garcia,1.333
+110536,Kevin,King,1.333
+104494,Adrian,Ungur,1.0
+104656,Haydn,Lewis,1.0
+108763,Alberto Emmanuel,Alvarado Larin,1.0
+209226,Adolfo Daniel,Vallejo,1.0
+104868,James,Ward,1.0
+109054,Daniel,Masur,1.0
+104978,Daniel,Brands,1.0
+105030,Michael,Venus,1.0
+105063,Andrea,Arnaboldi,1.0
+111459,Arjun,Kadhe,1.0
+105334,Luis David,Martinez,1.0
+111515,Thai Son,Kwiatkowski,1.0
+105406,Roberto,Marcora,1.0
+105436,Markus,Eriksson,1.0
+105493,Tomislav,Brkic,1.0
+103529,Aisam Ul Haq,Qureshi,1.0
+105641,Blaz,Rola,1.0
+208055,Ajeet,Rai,1.0
+111795,Filippo,Baldi,1.0
+126174,Youssef,Hossam,1.0
+144642,Marcelo Tomas,Barrios Vera,1.0
+105731,Steven,Diez,1.0
+103781,Jurgen,Melzer,1.0
+202090,Adrian,Andreev,1.0
+105841,Lorenzo,Giustino,1.0
+200218,Mate,Valkusz,1.0
+103990,Tommy,Robredo,1.0
+200247,Alexandar,Lazarov,1.0
+200250,Mehluli Don Ayanda,Sibanda,1.0
+126555,Tung Lin,Wu,1.0
+106105,Guilherme,Clezar,1.0
+202385,Jenson,Brooksby,1.0
+126612,Alexander,Cozbinov,1.0
+200390,Kacper,Zuk,1.0
+202462,Yasitha,De Silva,1.0
+106252,Joao Pedro,Sorgi,1.0
+106328,Christian,Harrison,1.0
+106331,Christopher,Oconnell,1.0
+106353,Pedja,Krstin,1.0
+106361,Adam,Pavlasek,1.0
+133018,Michail,Pervolarakis,1.0
+104563,Luca,Vanni,0.667
+209080,Blaise,Bicknell,0.667
+104672,Vincent,Millot,0.667
+127300,Djurabek,Karimov,0.667
+104932,Kenny,De Schepper,0.667
+104970,Matteo,Viola,0.667
+111167,Ugo,Nastasi,0.667
+111192,Lucas,Miedler,0.667
+111197,Jonathan,Mridha,0.667
+117353,Duck Hee,Lee,0.667
+105085,Artem,Smirnov,0.667
+105163,Gleb,Sakharov,0.667
+111453,Mikael,Torpegaard,0.667
+131951,Daniel,Cukierman,0.667
+207738,Brandon,Perez,0.667
+105339,Yan,Bai,0.667
+125842,Adam,Moundir,0.667
+111574,Jc,Aragone,0.667
+111578,Stefan,Kozlov,0.667
+105434,Ruan,Roelofse,0.667
+207852,Wai Yu,Kai,0.667
+105467,Jordi,Munoz Abreu,0.667
+105499,Christopher,Diaz Figueroa,0.667
+124022,Chun Hun,Wong,0.667
+207989,Carlos,Alcaraz Garfia,0.667
+109699,Julian,Lenz,0.667
+208004,Harold,Mayot,0.667
+126128,Roman,Safiullin,0.667
+105707,Nicolaas,Scholtz,0.667
+105723,Andrey,Kuznetsov,0.667
+132374,Jesse,Flores,0.667
+126237,Gian Marco,Moroni,0.667
+144687,Quinton,Vega,0.667
+202065,Petros,Tsitsipas,0.667
+200031,Lucas,Catarina,0.667
+202103,Francisco,Cerundolo,0.667
+144776,Christophe,Tholl,0.667
+105906,Kevin,Krawietz,0.667
+144826,Aziz,Dougaz,0.667
+144841,Christian,Sigsgaard,0.667
+202195,Maxime,Cressy,0.667
+208364,Franco,Roncadelli,0.667
+202261,Otto,Virtanen,0.667
+144932,Kristjan,Tamm,0.667
+106021,Dragos,Dima,0.667
+126504,Andrea,Pellegrino,0.667
+126526,Soren,Hess Olesen,0.667
+126530,Peter,Bothwell,0.667
+200278,Simon,Carr,0.667
+138846,Hong Kit Jack,Wong,0.667
+106106,George,Tsivadze,0.667
+208518,Hazem,Naw,0.667
+126609,Patrik,Niklas Salminen,0.667
+106137,Tristan,Lamasine,0.667
+106167,Joris,De Loore,0.667
+106177,Oriol,Roca Batalla,0.667
+134886,Sharmal,Dissanayake,0.667
+104229,Yen Hsun,Lu,0.667
+137018,Ayed,Zatar,0.667
+132932,Franz,Luna Lavidalie,0.667
+106324,Vaclav,Safranek,0.667
+200553,Alen,Avidzba,0.667
+206703,Paul,Jubb,0.667
+126845,Max,Purcell,0.667
+126846,Aleksandar,Vukic,0.667
+200574,Alexander,Donski,0.667
+106388,Pak Long,Yeung,0.667
+106391,Adrian,Bodmer,0.667
+106393,Frederico,Ferreira Silva,0.667
+126939,Khumoun,Sultanov,0.667
+200711,Nicolas,Mejia,0.333
+208937,Kasidit,Samrej,0.333
+110686,Finn,Tearney,0.333
+104593,Daniel,Gimeno Traver,0.333
+104597,Nicolas,Almagro,0.333
+110778,Joao Lucas,Magalhaes Hueb De Menezes,0.333
+209119,Aissa,Benchakroun,0.333
+108772,Julius,Tverijonas,0.333
+207134,Fitriadi,M Rifqi,0.333
+104735,Tobias,Kamke,0.333
+209188,Ari,Fahresi,0.333
+207176,Muhammad,Althaf Dhaifullah,0.333
+209225,Martin Antonio,Vergara Del Puerto,0.333
+207182,Emilio,Nava,0.333
+209238,Sebastian,Dominguez,0.333
+127326,Ben,Fatael,0.333
+104804,Amir,Weintraub,0.333
+104901,Vladimir,Ivanov,0.333
+104947,Marsel,Ilhan,0.333
+207400,Mark,Chigaazira,0.333
+207401,Sheil,Kotecha,0.333
+207415,Daniel,Michalski,0.333
+207421,Alex,Fairbanks,0.333
+121411,Moez,Chargui,0.333
+127570,Rodrigo,Arus,0.333
+207479,Soufiane,El Mesbahi,0.333
+105091,Peter,Torebko,0.333
+105111,Ivan,Endara,0.333
+121531,Mats,Moraing,0.333
+207608,Timofey,Skatov,0.333
+105254,Nikola,Mektic,0.333
+207669,Robert,Strombachs,0.333
+105273,Mauricio,Echazu,0.333
+207680,Facundo,Diaz Acosta,0.333
+105299,Dzmitry,Zhyrmont,0.333
+133979,Hasan,Ibrahim,0.333
+123768,Collin,Altamirano,0.333
+205695,Ching,Lam,0.333
+111505,Enzo,Couacaud,0.333
+209866,Karlis,Ozolins,0.333
+209867,Daniil,Ostapenkov,0.333
+209868,Kaipo,Marshall,0.333
+209869,Rodrigo,Crespo Piedra,0.333
+209870,Gunawan,Trismuwantara,0.333
+209871,Amr Elsayed Abdou Ahmed,Mohamed,0.333
+209872,Thehan Sanjaya,Wijemanne,0.333
+209873,Eric Jr.,Olivarez,0.333
+209874,Maks,Kasnikowski,0.333
+207830,Tomas,Machac,0.333
+207836,Muzammil,Murtaza,0.333
+134114,Jad,Ballout,0.333
+134120,Kuan Yi,Lee,0.333
+105464,Christopher,Rungkat,0.333
+105479,Alejandro,Mendoza,0.333
+105502,N Sriram,Balaji,0.333
+121896,Gabor,Borsos,0.333
+105515,Jordi,Samper Montana,0.333
+109640,Andrea,Basso,0.333
+134217,Skyler,Butts,0.333
+123983,Nerman,Fatic,0.333
+105566,Shahin,Khaledan,0.333
+207971,Xavier,Lawrence,0.333
+207972,Minjong,Park,0.333
+207973,Ainius,Sabaliauskas,0.333
+105578,Cristian,Rodriguez,0.333
+105587,Tom,Kocevar Desman,0.333
+109698,Christoffer,Konigsfeldt,0.333
+105606,Mohsen,Hossein Zade,0.333
+126102,Nicolae,Frunza,0.333
+208028,Francisco,Llanes,0.333
+208043,Ismael Changawa Ruwa,Mzai,0.333
+206000,Michel,Saade,0.333
+111805,Seong Chan,Hong,0.333
+138431,Darko,Bojanovic,0.333
+105668,Jerzy,Janowicz,0.333
+105691,Scott,Griekspoor,0.333
+124126,Sarp,Agabigun,0.333
+208103,Jiri,Lehecka,0.333
+208108,Brian,Shi,0.333
+124154,Sasi Kumar,Mukund,0.333
+144645,Zdenek,Kolar,0.333
+208134,Luca,Nardi,0.333
+144650,Rhett,Purcell,0.333
+201995,Cayetano,March,0.333
+124186,Alexandre,Muller,0.333
+126239,Arthur,Rinderknech,0.333
+208230,Alibek,Kachmazov,0.333
+200045,Anthony,Susanto,0.333
+126328,Gabriel,Donev,0.333
+206199,Kevin,Cheruiyot,0.333
+122236,Roman,Hassanov,0.333
+208260,Zachary,Svajda,0.333
+144775,Linh Giang,Trinh,0.333
+202120,Rowland,Phillips,0.333
+200075,Yshai,Oliel,0.333
+202130,Emil,Reinberg,0.333
+144807,Kenneth,Raisma,0.333
+122298,Botic,Van De Zandschulp,0.333
+105935,Duilio,Beretta,0.333
+202210,Edris,Fetisleam,0.333
+105954,Peter,Nagy,0.333
+105960,Evan,King,0.333
+105961,David,Souto,0.333
+105963,Arthur,De Greef,0.333
+200181,Amer,Naow,0.333
+202246,Nikoloz,Davlianidze,0.333
+134677,Juan,Borba,0.333
+202262,Filip Cristian,Jianu,0.333
+126502,Luis Diego,Chavez Villalpando,0.333
+106031,Raymond,Sarmiento,0.333
+106032,Facundo,Arguello,0.333
+144946,Rayane,Roumane,0.333
+202300,Phuong Van,Nguyen,0.333
+200265,Ulises,Blanch,0.333
+200267,Zizou,Bergs,0.333
+200274,Alex,Diaz,0.333
+144984,Artem,Dubrivnyy,0.333
+144985,Ergi,Kirkin,0.333
+208476,Kyle,Johnson,0.333
+138845,Anthony Jackie,Tang,0.333
+200303,Pavel,Kotov,0.333
+145016,Julian,Saborio,0.333
+202382,Simen Sunde,Bratholm,0.333
+200335,Felipe,Meligeni Rodrigues Alves,0.333
+126613,Bogdan,Borza,0.333
+200343,David,Szintai,0.333
+106138,Yaraslau,Shyla,0.333
+202400,Alastair,Gray,0.333
+122533,Nam Hoang,Ly,0.333
+200368,Jack Mingjie,Lin,0.333
+106174,Gonzalo,Lama,0.333
+126663,Juan Pablo,Ficovich,0.333
+122570,Mubarak Shannan,Zayid,0.333
+200401,Amir Hossein,Badi,0.333
+208597,Chak Lam Coleman,Wong,0.333
+106203,Pedro,Sakamoto,0.333
+202475,Philip,Henning,0.333
+106227,Ji Sung,Nam,0.333
+106247,Nik,Razborsek,0.333
+206600,Zura,Tkemaladze,0.333
+200483,Peter August,Anker,0.333
+206642,Yassir,Kilani,0.333
+104251,Ti,Chen,0.333
+106302,Andrew,Harris,0.333
+200526,Juan,Lugo,0.333
+106325,Jabor,Al Mutawa,0.333
+106333,Julien,Cagnina,0.333
+106348,Evgeny,Karlovskiy,0.333
+104308,Michal,Przysiezny,0.333
+206716,Lukas,Hellum Lilleengen,0.333
+106396,Cheng Yu,Yu,0.333
+206748,Giulio,Zeppieri,0.333
+206750,Daniil,Glinka,0.333
+106408,Mario,Vilella Martinez,0.333
+106410,Jorge Brian,Panta Herreros,0.333
+200619,Sebastian,Arcila,0.333
+206768,Rafael Eduardo,Gonzalez Retana,0.333
+120792,M Abid Ali Khan,Akbar,0.333
+126964,Vitaliy,Sachko,0.333

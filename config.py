@@ -29,13 +29,13 @@ TOURNAMENTS_ALL_CSV_PATH = os.path.join(ROOT_DIR_PATH, 'data/csv/tournaments_all
 # CSV REGION END
 
 # GEXF REGION BEGIN
-AGGREGATE_NETWORK_GEXF_PATH = os.path.join(ROOT_DIR_PATH, 'data/gefx/aggregate.gexf')
-_2018_NETWORK_GEXF_PATH = os.path.join(ROOT_DIR_PATH, 'data/gefx/2018.gexf')
-_2019_NETWORK_GEXF_PATH = os.path.join(ROOT_DIR_PATH, 'data/gefx/2019.gexf')
-_2020_NETWORK_GEXF_PATH = os.path.join(ROOT_DIR_PATH, 'data/gefx/2020.gexf')
-NOVAK_NETWORK_GEFX_PATH = os.path.join(ROOT_DIR_PATH, 'data/gefx/novak.gexf')
-RAFAEL_NETWORK_GEFX_PATH = os.path.join(ROOT_DIR_PATH, 'data/gefx/rafael.gexf')
-ROGER_NETWORK_GEFX_PATH = os.path.join(ROOT_DIR_PATH, 'data/gefx/roger.gexf')
+AGGREGATE_NETWORK_GEXF_PATH = os.path.join(ROOT_DIR_PATH, 'data/gexf/aggregate.gexf')
+_2018_NETWORK_GEXF_PATH = os.path.join(ROOT_DIR_PATH, 'data/gexf/2018.gexf')
+_2019_NETWORK_GEXF_PATH = os.path.join(ROOT_DIR_PATH, 'data/gexf/2019.gexf')
+_2020_NETWORK_GEXF_PATH = os.path.join(ROOT_DIR_PATH, 'data/gexf/2020.gexf')
+NOVAK_NETWORK_GEFX_PATH = os.path.join(ROOT_DIR_PATH, 'data/gexf/novak.gexf')
+RAFAEL_NETWORK_GEFX_PATH = os.path.join(ROOT_DIR_PATH, 'data/gexf/rafael.gexf')
+ROGER_NETWORK_GEFX_PATH = os.path.join(ROOT_DIR_PATH, 'data/gexf/roger.gexf')
 # GEXF REGION END
 
 # EGO ID REGION BEGIN

@@ -1,8 +1,16 @@
+import os
+import shutil
+
 from data_manipulation import fetch_and_write_csv, load_2018_dict, load_2019_dict, load_2020_dict, load_all_dict
-from networks.build import build_and_write_all_networks
+from networks import build_and_write_all_networks
 
 
 def main():
+    if os.path.exists('data'):
+        shutil.rmtree('data')
+
+    os.makedirs('data/csv')
+    os.makedirs('data/gexf')
     fetch_and_write_csv()
     data_2018 = load_2018_dict()
     data_2019 = load_2019_dict()
