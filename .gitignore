@@ -130,4 +130,3 @@ dmypy.json
 # Custom
 *.csv
 *.gexf
-actions/*.csv
