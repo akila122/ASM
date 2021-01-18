@@ -19,12 +19,18 @@ def write_csv(path):
             df.to_csv(path, index=False)
             logger.info(f'Results for {function.__name__} written to {path}.')
             return source
+
         return wrapper
+
     return decorator
 
 
-@write_csv('task1.csv')
-def task_1(network: Graph):
+@write_csv('csv/task1.csv')
+def task_1():
+    """
+    What's the average number of players per each player
+    """
+    network = load_network(AGGREGATE_NETWORK_GEXF_PATH)
     ret = []
     for player_id in network.nodes():
         node = network.nodes[player_id]
@@ -35,8 +41,27 @@ def task_1(network: Graph):
             'last_name': node['last_name'],
             'average_opponents': round(sum(weights) / 3, 3)
         })
-    return tuple((sorted(ret, key=lambda x: x['average_opponents'], reverse=True)))
+    return sorted(ret, key=lambda x: x['average_opponents'], reverse=True)
 
 
-network_ = load_network(AGGREGATE_NETWORK_GEXF_PATH)
-print(task_1(network_))
+@write_csv('csv/task2.csv')
+def task_2():
+    """
+    Which players have played against the most other players
+    """
+    network = load_network(AGGREGATE_NETWORK_GEXF_PATH)
+    ret = []
+    for player_id in network.nodes():
+        node = network.nodes[player_id]
+        ret.append({
+            'player_id': player_id,
+            'first_name': node['first_name'],
+            'last_name': node['last_name'],
+            'degree': len(network[player_id])
+        })
+    return sorted(ret, key=lambda x: x['degree'], reverse=True)
+
+
+@write_csv('csv/task3.csv')
+def task3():
+    pass

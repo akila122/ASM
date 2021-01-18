@@ -3,11 +3,10 @@ from typing import Set
 from loguru import logger
 from networkx import Graph, write_gexf
 
-from data_manipulation import load_data_csv, load_2018_dict, load_2019_dict, load_2020_dict, load_all_dict
-from models import Match, Player
+from models import Match, Player, Tourney
 from config import _2018_NETWORK_GEXF_PATH, _2019_NETWORK_GEXF_PATH, _2020_NETWORK_GEXF_PATH, NOVAK_PLAYER_ID, \
     NOVAK_NETWORK_GEFX_PATH, RAFAEL_NETWORK_GEFX_PATH, RAFAEL_PLAYER_ID, ROGER_NETWORK_GEFX_PATH, ROGER_PLAYER_ID, \
-    AGGREGATE_NETWORK_GEXF_PATH
+    AGGREGATE_NETWORK_GEXF_PATH, TOURNAMENTS_NETWORK_GEFX_PATH
 
 
 @logger.catch(reraise=True)
@@ -40,6 +39,10 @@ def build_and_write_all_networks(data_2018, data_2019, data_2020, data_all):
     write_gexf(network_roger, ROGER_NETWORK_GEFX_PATH)
     logger.success(f'Network written to {ROGER_NETWORK_GEFX_PATH}')
 
+    network_tournaments = build_tournaments(data_all['players'], data_all['matches'], data_all['tournaments'])
+    write_gexf(network_tournaments, TOURNAMENTS_NETWORK_GEFX_PATH)
+    logger.success(f'Network written to {TOURNAMENTS_NETWORK_GEFX_PATH}')
+
 
 @logger.catch(reraise=True)
 def build_regular(players: Set[Player], matches: Set[Match], name='N/A') -> Graph:
@@ -49,6 +52,19 @@ def build_regular(players: Set[Player], matches: Set[Match], name='N/A') -> Grap
     for match in matches:
         _add_match_edge(network, match)
     logger.success(f'Done building {name} network.')
+    return network
+
+
+def build_tournaments(players: Set[Player], matches: Set[Match], tournaments: Set[Tourney]) -> Graph:
+    network = Graph(name='tournaments')
+    for player in players:
+        _add_player_node(network, player)
+    for tourney in tournaments:
+        _add_tourney_node(network, tourney)
+    for match in matches:
+        network.add_edge(match.winner_id, match.tourney_id)
+        network.add_edge(match.loser_id, match.tourney_id)
+    logger.success(f'Done building {network.graph["name"]} network.')
     return network
 
 
@@ -90,3 +106,8 @@ def _add_match_edge(network, match):
         network.get_edge_data(*match)['weight'] = network.get_edge_data(*match)['weight'] + 1
     else:
         network.add_edge(*match, weight=1)
+
+
+def _add_tourney_node(network, tourney):
+    network.add_node(tourney.tourney_id, label=tourney.tourney_name, surface=tourney.surface,
+                     tourney_date=tourney.tourney_date)

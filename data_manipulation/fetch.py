@@ -66,11 +66,6 @@ def fetch_and_write_csv(write=True) -> Dict[str, List[Set]]:
                 else:
                     if len(current_ranking) > 1:
                         current_ranking = current_ranking.iloc[[0]]
-                        logger.warning(
-                            f'Player_id={player_id} found in {matches_source_urls[i]} as a winner_id'
-                            f'contained {len(current_ranking)} times in {ATP_RANKINGS_CURRENT_CSV_URL}.'
-                            f'Using first rank from atp_rankings_current.'
-                        )
                     players[i].add(Player(
                         player_id=int(new_player_df['player_id'].item()),
                         first_name=new_player_df['first_name'].item(),
@@ -99,11 +94,6 @@ def fetch_and_write_csv(write=True) -> Dict[str, List[Set]]:
                 else:
                     if len(current_ranking) > 1:
                         current_ranking = current_ranking.iloc[[0]]
-                        logger.warning(
-                            f'Player_id={player_id} found in {matches_source_urls[i]} as a loser_id'
-                            f'contained {len(current_ranking)} times in {ATP_RANKINGS_CURRENT_CSV_URL}.'
-                            f'Using first rank from atp_rankings_current.'
-                        )
                     players[i].add(Player(
                         player_id=int(new_player_df['player_id'].item()),
                         first_name=new_player_df['first_name'].item(),
@@ -161,7 +151,8 @@ def fetch_and_write_csv(write=True) -> Dict[str, List[Set]]:
         f'Tournaments data entries count by years ascending {[len(tournaments_) for tournaments_ in tournaments]}.')
     if write:
         logger.success(
-            f'Unions [[Player], [Match], [Tourney]] [{len(players_union)}, {len(matches_union)}, {len(tournaments_union)}].')
+            f'Unions [[Player], [Match], [Tourney]] '
+            f'[{len(players_union)}, {len(matches_union)}, {len(tournaments_union)}].')
 
     return {'players': players, 'matches': matches, 'tournaments': tournaments}
 

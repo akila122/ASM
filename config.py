@@ -36,6 +36,7 @@ _2020_NETWORK_GEXF_PATH = os.path.join(ROOT_DIR_PATH, 'data/gexf/2020.gexf')
 NOVAK_NETWORK_GEFX_PATH = os.path.join(ROOT_DIR_PATH, 'data/gexf/novak.gexf')
 RAFAEL_NETWORK_GEFX_PATH = os.path.join(ROOT_DIR_PATH, 'data/gexf/rafael.gexf')
 ROGER_NETWORK_GEFX_PATH = os.path.join(ROOT_DIR_PATH, 'data/gexf/roger.gexf')
+TOURNAMENTS_NETWORK_GEFX_PATH = os.path.join(ROOT_DIR_PATH, 'data/gexf/tournaments.gexf')
 # GEXF REGION END
 
 # EGO ID REGION BEGIN
